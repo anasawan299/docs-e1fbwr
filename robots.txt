@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-d76p3y.luxury777cur.cfd/sitemap.xml
